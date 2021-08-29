@@ -1,0 +1,12 @@
+name: PDS_Clinicaltrials_COVID_19
+title: PDS_Clinicaltrials_COVID_19
+username:
+account: yousifabd
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3432950
+bundleId: 4057509
+url: https://yousifabd.shinyapps.io/PDS_Clinicaltrials_COVID_19/
+when: 1609784420.55524
+asMultiple: FALSE
+asStatic: FALSE
